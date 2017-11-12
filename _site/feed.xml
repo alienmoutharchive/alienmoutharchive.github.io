@@ -5,8 +5,8 @@
     <description>a literary and arts journal</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 29 Oct 2017 15:46:36 -0500</pubDate>
-    <lastBuildDate>Sun, 29 Oct 2017 15:46:36 -0500</lastBuildDate>
+    <pubDate>Sun, 12 Nov 2017 12:07:49 -0600</pubDate>
+    <lastBuildDate>Sun, 12 Nov 2017 12:07:49 -0600</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -108,7 +108,7 @@ I have been doing this entire time.&lt;/p&gt;
       </item>
     
       <item>
-        <title>What Do I Know of Desire</title>
+        <title>Schiller Woods Head</title>
         <description>&lt;p&gt;Squint and it’s half-blue, bright &lt;br /&gt;
 blue, cobalt, atop half-green, grass &lt;br /&gt;
 green, bubbling up, gray &lt;br /&gt;
@@ -172,6 +172,19 @@ I held you for a summer.&lt;br /&gt;&lt;/p&gt;
         <pubDate>Sun, 29 Oct 2017 05:00:00 -0500</pubDate>
         <link>/october2017/sheeha.html</link>
         <guid isPermaLink="true">/october2017/sheeha.html</guid>
+        
+        
+        <category>october2017</category>
+        
+      </item>
+    
+      <item>
+        <title>Mother</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://alienmouth.com/october2017/Mother.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 29 Oct 2017 05:00:00 -0500</pubDate>
+        <link>/october2017/johnson.html</link>
+        <guid isPermaLink="true">/october2017/johnson.html</guid>
         
         
         <category>october2017</category>
@@ -459,33 +472,6 @@ you could be a +1&lt;br /&gt;&lt;/p&gt;
         <pubDate>Thu, 20 Jul 2017 20:00:00 -0500</pubDate>
         <link>/july2017/stoddard.html</link>
         <guid isPermaLink="true">/july2017/stoddard.html</guid>
-        
-        
-        <category>july2017</category>
-        
-      </item>
-    
-      <item>
-        <title>Peut être</title>
-        <description>&lt;p&gt;My boy wears grease that &lt;br /&gt;
-smells like cinnamon in his hair.&lt;br /&gt;
-It lingers on the pillows &lt;br /&gt;
-and I don’t want to forget that.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;There aren’t any squash in the garden but&lt;br /&gt;
-the blooms sure look pretty&lt;br /&gt;
-like springtime tender&lt;br /&gt;
-even in the eleventh month.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;When there is rose &lt;br /&gt;
-lemonade at the market&lt;br /&gt;
-and when there are curbsides &lt;br /&gt;
-bathed in sunlight, &lt;br /&gt;
-maybe.&lt;br /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 20 Jul 2017 05:00:00 -0500</pubDate>
-        <link>/hicks/</link>
-        <guid isPermaLink="true">/hicks/</guid>
         
         
         <category>july2017</category>
